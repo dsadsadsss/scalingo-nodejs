@@ -8,21 +8,13 @@
   "env": {
     "NEZHA_SERVER": {
       "description": "哪吒服务器地址",
-      "value": "1"
+      "value": "xxxxxx"
     },
     "NEZHA_KEY": {
       "description": "哪吒密钥",
-      "value": "1"
-    },
-    "PUBLIC_URL": {
-      "description": "保持默认即可",
-      "generator": "url"
-    },
-    "ADMIN_URL": {
-      "description": "保持默认即可",
-      "generator": "url",
-      "template": "%URL%/admin"
+      "value": "xxxxxx"
     }
+
   },
   "scripts": {
     "first-deploy": "npm install"
